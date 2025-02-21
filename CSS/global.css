@@ -2,10 +2,10 @@
 @import url("https://fonts.googleapis.com/icon?family=Material+Icons+Outlined");
 @import url("https://fonts.googleapis.com/icon?family=Material+Icons");
 
-@import "<%=BASE_URL %>reset.css";
-@import "<%=BASE_URL %>variable.css";
-@import "<%=BASE_URL %>navigation-bar.css";
-@import "<%=BASE_URL %>media-query.css";
+@import "./reset.css";
+@import "./variable.css";
+@import "./navigation-bar.css";
+@import "./media-query.css";
 
 * {
   box-sizing: border-box;
